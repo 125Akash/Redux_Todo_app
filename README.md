@@ -24,7 +24,7 @@ This is a simple Todo application built using React, Redux, and Framer Motion. I
 
 ## Demo
 
-You can access the live demo of the Todo app [here](#) (Add link to the deployed app).
+You can access the live demo of the Todo app [here](#) (https://redux-todo-app-five-jade.vercel.app/).
 
 ## Technologies Used
 
@@ -39,7 +39,7 @@ Follow these steps to get the Todo app up and running on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/125Akash/Redux_Todo_app.git
 
 cd todo-app
 
