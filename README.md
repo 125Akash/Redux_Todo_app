@@ -1,6 +1,5 @@
 # Todo App with React, Redux, and Framer Motion
 
-![Todo App Screenshot](todo-app-screenshot.png)
 
 ## Overview
 
